@@ -1,0 +1,7 @@
+{
+  "name": "homework",
+  "description": "Turn an assignment (images, PDF, or pasted text) plus its data files into a submittable LaTeX/PDF solution set, with every printed number verified against its own output.",
+  "version": "1.0.0",
+  "author": { "name": "Aji-Q" },
+  "keywords": ["homework", "latex", "pdf", "skill"]
+}

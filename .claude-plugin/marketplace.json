@@ -1,0 +1,14 @@
+{
+  "name": "homework-skill",
+  "description": "The homework skill for Claude: assignment in, verified LaTeX/PDF solution set out.",
+  "owner": {
+    "name": "Aji-Q"
+  },
+  "plugins": [
+    {
+      "name": "homework",
+      "source": "./",
+      "description": "Turn an assignment plus its data files into a submittable LaTeX/PDF solution set."
+    }
+  ]
+}
