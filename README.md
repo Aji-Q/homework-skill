@@ -22,7 +22,9 @@ Then run `/homework:homework`, or just hand Claude an assignment.
 **Claude Code (plain skill):** copy `skills/homework/` into `~/.claude/skills/`, then `/homework`.
 
 **Claude Desktop / claude.ai:** zip the `skills/homework/` folder (the zip root must be the
-`homework/` folder) and upload it under Settings → Skills.
+`homework/` folder) and upload it on the Skills page (under Customize, or Plugins in newer
+builds) with "Upload a skill". Code execution must be enabled; whether the hosted container
+has LaTeX is untested.
 
 ## Requirements
 
